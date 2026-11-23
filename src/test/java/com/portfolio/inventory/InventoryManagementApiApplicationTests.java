@@ -1,4 +1,4 @@
-package com.portfolio.inventory_management_api;
+package com.portfolio.inventory;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.portfolio.inventory_management_api;
+package com.portfolio.inventory;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
